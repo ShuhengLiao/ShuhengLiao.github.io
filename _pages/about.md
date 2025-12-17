@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: LIAO Shuheng 5x7inch RGB.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>RM601A, SHB</p>
@@ -25,6 +25,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I am an Assistant Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong. Prior to joining CUHK, I was a Postdoctoral Associate at the Massachusetts Institute of Technology, where I worked with [Prof. John Hart]/(https://meche.mit.edu/people/faculty/ajhart@mit.edu). I received my Ph.D. in Mechanical Engineering from Northwestern University in 2023 under the supervision of [Prof. Jian Cao]/(https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cao-jian.html) and [Prof. Kornel Ehmann]/(https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ehmann-kornel.html), and my B.S. degree in Mechanical Engineering from Shanghai Jiao Tong University in 2018.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
