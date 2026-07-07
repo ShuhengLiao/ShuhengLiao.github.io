@@ -28,15 +28,25 @@ latest_posts:
 
 I am an Assistant Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong. Prior to joining CUHK, I was a Postdoctoral Associate at the Massachusetts Institute of Technology, where I worked with [Prof. John Hart](https://meche.mit.edu/people/faculty/ajhart@mit.edu). I received my Ph.D. in Mechanical Engineering from Northwestern University in 2023 under the supervision of [Prof. Jian Cao](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cao-jian.html) and [Prof. Kornel Ehmann](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/ehmann-kornel.html), and my B.S. degree in Mechanical Engineering from Shanghai Jiao Tong University in 2018.
 
+I am an Assistant Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong. Before joining CUHK, I was a Postdoctoral Associate at the Massachusetts Institute of Technology. I received my Ph.D. in Mechanical Engineering from Northwestern University in 2023, and my B.S. in Mechanical Engineering from Shanghai Jiao Tong University in 2018.
+
 The mission of my research group is to develop next-generation manufacturing systems that are intelligent, adaptive, and sustainable. By integrating computational modeling, machine learning, and real-time process control, we aim to create tools that both deepen fundamental process understanding and enable practical manufacturing solutions. Our long-term goal is to establish an integrated digital manufacturing platform that accelerates process and product design, enhances process reliability, and facilitates the broader industrial adoption of advanced manufacturing technologies.
 
 Our current research directions include:
-- **Multi-material metal additive manufacturing** for the fabrication of functionally graded materials  
-- **Physics-based computational modeling** of manufacturing processes for efficient forward prediction and inverse design  
-- **Scientific machine learning and digital twins** for manufacturing process modeling, design, and control  
-- **In-situ monitoring and process control** for additive manufacturing processes  
+- **Metal additive manufacturing (DED and LPBF)**: multi-material and functionally graded materials, repair and remanufacturing
+- **Differentiable, GPU-accelerated process simulation**: end-to-end gradient-based frameworks for forward prediction and inverse design
+**In-situ monitoring and closed-loop process control**: melt-pool sensing, full-field deformation measurement (DIC), real-time model updating, and adaptive control
+- **AI for manufacturing**: scientific machine learning, digital twins, and LLM-driven agents toward autonomous process development
 
-**Prospective Ph.D. Students:**  
-I am recruiting Ph.D. students for **Fall 2026**. Highly motivated candidates with backgrounds in manufacturing, materials, mechanics or related fields are encouraged to apply. Please email me your CV and a brief description of your research interests.
+**Prospective Ph.D. Students:** I am recruiting Ph.D. students for **Fall 2027**.
+Candidates are expected to have:
+
+- A B.S. or M.S. degree in mechanical engineering, materials science, mechanics, computer science, or a related field
+- Strong programming skills (e.g., Python/PyTorch/JAX) with experience in numerical methods or FEM, **or** strong hands-on experience with laser-based additive manufacturing, in-situ sensing, or materials characterization
+- Solid written and spoken English; prior research experience or publications are a plus
+
+Outstanding candidates are strongly encouraged to apply for the
+[Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html),
+which provides a generous stipend and travel allowance. Please email me your CV, transcripts, and a brief statement of your research interests.
 
 
