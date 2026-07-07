@@ -40,7 +40,7 @@ Our current research directions include:
 Candidates are expected to have:
 
 - A B.S. or M.S. degree in mechanical engineering, materials science, mechanics, computer science, or a related field
-- Strong programming skills (e.g., Python/PyTorch/JAX) with experience in numerical methods or FEM, **or** strong hands-on experience with laser-based additive manufacturing, in-situ sensing, or materials characterization
+- Experience in at least one of the following: programming for computational mechanics (e.g., Python/C++ for FEM or numerical methods), commercial simulation software (e.g., ABAQUS, ANSYS, COMSOL), machine learning (e.g., PyTorch/JAX), or hands-on experimental work (e.g., laser-based additive manufacturing, in-situ sensing, materials characterization)
 - Solid written and spoken English; prior research experience or publications are a plus
 
 Outstanding candidates are strongly encouraged to apply for the
